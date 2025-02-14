@@ -1,5 +1,5 @@
 # Travel Map App SwiftUI
-TravelMap application is an application that provides the location and brief information of historical places.
+Travel Map application is an application that provides the location and brief information of historical places.
 
 ## Description
 - Created with the **Swift programming language**, **SwiftUI framework**.
